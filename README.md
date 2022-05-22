@@ -6,7 +6,7 @@
 - 🌐 I'm studying two languages (English and Italian)
 - ⚖️ Trying to become a lawyer (but I love programming!)
 - 💡 I'm an aspie :D
-- 💜 If you need help, I'm here for whatever you need
+- 📝 If you need help, I'm here for whatever you need
 
 <br>
 
