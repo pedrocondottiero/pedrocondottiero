@@ -23,32 +23,25 @@
 
 <div style="display: inline_block"><br>
 
- 
   ## I can help you with [💻]
   
-  <img align="center" alt="Pedro-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+  <img align="center" alt="Pedro-Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   
-  <img align="center" alt="Pedro-C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg">
+  <img align="center" alt="Pedro-C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 
- 
-
-  <img align="center" alt="Pedro-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
+  <img align="center" alt="Pedro-PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
   
-  <img align="center" alt="Pedro-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
+  <img align="center" alt="Pedro-MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 
-  <img align="center" alt="Pedro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Pedro-HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
 
-  <img align="center" alt="Pedro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Pedro-CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
 
 <br>
 
 </div>
 
-  
-
   ## Links [📌]
-
-  
 
 <div style="display: inline_block"><br>
 
@@ -61,8 +54,6 @@
   <a href="https://pin.it/3XdAcBm">
     <img align="center" alt="pinterest" src="https://aleen42.github.io/badges/src/pinterest.svg" target="_blank"></a>
 
-    
-
 </div>
  
 <br>
@@ -73,14 +64,9 @@
   
  <a href="https://github.com/pedrocondottiero/reprw">
    <img align="center" alt="repositório REPRW" height="135" src="https://github-readme-stats.vercel.app/api/pin/?username=pedrocondottiero&repo=reprw&theme=outrun"/></a>
-   
 
-
-  
   </div> <br>
     
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-
- 
 
 </div>
