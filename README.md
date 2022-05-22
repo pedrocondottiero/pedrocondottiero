@@ -42,11 +42,6 @@
 
 <br>
 
-
-
-
-  <img align="right" alt="Pedro-pic" height="150" style="border-radius:50px;" src="https://nihilobstat.carrd.co/assets/images/image04.jpg?v=2feb196c?width=676&height=676">
-
 </div>
 
   
