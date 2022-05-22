@@ -13,12 +13,9 @@
 <div align="center">
 
   <a href="https://github.com/pedrocondottiero">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrocondottiero&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrocondottiero&layout=compact&langs_count=7&theme=outrun"/>
 
- <a href="https://github.com/pedrocondottiero">
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrocondottiero&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrocondottiero&layout=compact&langs_count=7&theme=outrun"/>
 
 </div>
 
