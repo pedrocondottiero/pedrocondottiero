@@ -14,8 +14,11 @@
 
   <a href="https://github-readme-stats.vercel.app/api?username=pedrocondottiero&show_icons=true&count_private=true&locale=pt-BR&theme=outrun">
         <img alt="stats Pedro" height="200" width="400" src="https://github-readme-stats.vercel.app/api?username=pedrocondottiero&show_icons=true&count_private=true&locale=pt-BR&theme=outrun"/>
-
-    </a>
+snsnsnsbsbssjbdbsj
+ekskhsjssjsjsjsjshsjsj
+  njwjskqhakajaj  
+    
+jajakshsksjwbsjj
 
     <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrocondottiero&layout=compact&locale=pt-BR&count_private=true&theme=outrun">
         <img alt="top languages" height="200" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrocondottiero&layout=compact&locale=pt-BR&count_private=true&theme=outrun"/></a>
