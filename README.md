@@ -53,27 +53,25 @@
 
   ## Links [📌]
 
- 
+  
 
-<div> 
+<div style="display: inline_block"><br>
 
-  <div style="display: inline-block"> <!-- style="display: inline-block" faz com que a <div></div> se estilize (pois é usado um elemento de CSS), inserindo uma linha para dividir o conteúdo acima do <div></div> do que está dentro e depois deste <div></div> -->
-
-    <a href="https://github.com/pedrocondottiero"> <!-- ÍCONE GITHUB -->
-
-        <img align="center" alt="ícone GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-
-    </a> 
-
-    <a href="mailto:pedrovilelabenedito22@gmail.com"> <!-- ÍCONE GMAIL-->
-
-        <img align="center" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-
-    </a> 
+  <a href="https://youtube.com/channel/UCW7e9_m5si8pB_GC6xx2EfQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 
 
+   
+
+   <a href ="mailto: pedrovilelabenedito22@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
+  <a href="https://pin.it/3XdAcBm"><img src="https://aleen42.github.io/badges/src/pinterest.svg" target="_blank"></a>
+
+    
 
 </div>
+ 
+
+
 
 <br>
 
