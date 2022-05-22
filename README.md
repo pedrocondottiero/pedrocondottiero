@@ -18,7 +18,7 @@
     </a>
 
     <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrocondottiero&layout=compact&locale=pt-BR&count_private=true&theme=outrun">
-        <img alt="top languages" height="200" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrocondottiero&layout=compact&locale=pt-BR&count_private=true&theme=outrun"/>
+        <img alt="top languages" height="200" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrocondottiero&layout=compact&locale=pt-BR&count_private=true&theme=outrun"/></a>
 
 
 </div>
