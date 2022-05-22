@@ -12,9 +12,16 @@
 
 <div align="center">
 
-  <a href="https://github.com/pedrocondottiero">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrocondottiero&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrocondottiero&layout=compact&langs_count=7&theme=outrun"/>
+  <a href="https://github-readme-stats.vercel.app/api?username=pedrocondottiero&show_icons=true&count_private=true&locale=pt-BR&theme=outrun">
+
+
+        <img alt="stats Pedro" height="200" width="400" src="https://github-readme-stats.vercel.app/api?username=pedrocondottiero&show_icons=true&count_private=true&locale=pt-BR&theme=outrun"/> <!-- STATUS DO GITHUB --> <!-- img é o código HTML para inserir imagem; alt="" significa que, caso não apareça a imagem, por algum erro ou qualquer motivo, mostrará o texto indicado no alt="" -->
+
+    </a>
+
+    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=LanaIhara&layout=compact&locale=pt-BR&count_private=true&theme=gruvbox_light">
+
+        <img alt="top languages" height="200" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LanaIhara&layout=compact&locale=pt-BR&count_private=true&theme=gruvbox_light"/> <!-- LINGUAGENS MAIS USADAS PELO USUÁRIO -->
 
 
 </div>
