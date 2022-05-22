@@ -1,17 +1,31 @@
 ## Welcome to my profile!
 
+### About me [📜]
+
+- 🎓 I'm currently a programming student learning PHP
+- 🌐 I'm studying two languages (English and Italian)
+- ⚖️ Trying to become a lawyer (but I love programming!)
+- 💡 I'm an aspie :D
+- 💜 If you need help, I'm here for whatever you need
+
+<br>
+
 <div align="center">
 
   <a href="https://github.com/pedrocondottiero">
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrocondottiero&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrocondottiero&layout=compact&langs_count=7&theme=gotham"/>
+<br>
+    
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrocondottiero&layout=compact&langs_count=7&theme=gotham"/>
 
 </div>
 
 <div style="display: inline_block"><br>
 
+ 
+  ## Languages in which I can help you [💻]
+  
   <img align="center" alt="Pedro-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   
   <img align="center" alt="Pedro-C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg">
@@ -26,6 +40,7 @@
 
   <img align="center" alt="Pedro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
+<br>
 
 
 
@@ -36,7 +51,7 @@
 
   
 
-  ##
+  ## Links [📌]
 
  
 
