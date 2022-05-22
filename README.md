@@ -12,10 +12,10 @@
 
 <div align="center">
 
-  <a href="https://github-readme-stats.vercel.app/api?username=pedrocondottiero&show_icons=true&count_private=true&locale=en&theme=outrun">
+  <a href="https://github-readme-stats.vercel.app/api?username=pedrocondottieroshow_icons=true&theme=outrun&include_all_commits=true&count_private=true">
         <img alt="stats Pedro" height="200" width="400" src="https://github-readme-stats.vercel.app/api?username=pedrocondottiero&show_icons=true&count_private=true&locale=pt-BR&theme=outrun"/>
 </a>
-    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrocondottiero&layout=compact&locale=pt-BR&count_private=true&theme=outrun">
+    <a href="https://github-readme-stats.vercel.app/api?username=pedrocondottiero&show_icons=true&theme=outrun&include_all_commits=true&count_private=true">
         <img alt="top languages" height="200" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrocondottiero&layout=compact&locale=pt-BR&count_private=true&theme=outrun"/></a>
 
 
