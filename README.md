@@ -81,10 +81,10 @@
 <div style="display: inline_block"><br>
   
  <a href="https://github.com/pedrocondottiero/reprw">
-   <img align="center" alt="repositório REPRW" height="135" src="https://github-readme-stats.vercel.app/api/pin/?username=pedrocondottiero&repo=reprw&theme=outrun"/>
+   <img align="center" alt="repositório REPRW" height="135" src="https://github-readme-stats.vercel.app/api/pin/?username=pedrocondottiero&repo=reprw&theme=outrun"/></a>
    
 
-    </a>
+
   
   </div> <br>
     
