@@ -57,11 +57,14 @@
 
 <div style="display: inline_block"><br>
 
-  <a href="https://youtube.com/channel/UCW7e9_m5si8pB_GC6xx2EfQ" target="_blank"><img align="center" alt="youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://youtube.com/channel/UCW7e9_m5si8pB_GC6xx2EfQ" target="_blank">
+    <img align="center" alt="youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 
-   <a href ="mailto: pedrovilelabenedito22@gmail.com"><img align="center" alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+   <a href ="mailto: pedrovilelabenedito22@gmail.com">
+     <img align="center" alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
-  <a href="https://pin.it/3XdAcBm"><img align="center" alt="pinterest" src="https://aleen42.github.io/badges/src/pinterest.svg" target="_blank"></a>
+  <a href="https://pin.it/3XdAcBm">
+    <img align="center" alt="pinterest" src="https://aleen42.github.io/badges/src/pinterest.svg" target="_blank"></a>
 
     
 
